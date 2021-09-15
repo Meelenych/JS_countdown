@@ -5,12 +5,13 @@ body {
 		rgb(123, 8, 231),
 		rgb(243, 115, 243)
 	);
+	padding-left: 50px;
+	padding-right: 50px;
 }
 .timer {
 	width: auto;
 	display: flex;
 	justify-content: space-around;
-
 	margin-top: 200px;
 }
 
